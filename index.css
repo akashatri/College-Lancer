@@ -1,0 +1,149 @@
+body
+{
+	overflow-x:hidden;
+}
+
+.item
+{
+	height:80%;
+}.img1
+{
+	width:100%;
+	background-attachment:fixed;
+	 background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.col-xs-80%{
+	text-align:center;
+	height:30%;
+	width:50%;
+}
+.txt
+{
+	font-family: Brush Script MT;
+color:#E50914;
+font-size:38px;	
+}
+.txt1
+{
+	font-family: Brush Script MT;
+color:black;
+font-size:38px;	
+	
+}
+.btn btn-primary
+{
+	height:200px;
+	background-color:#093426;
+	color:black;
+	
+}
+.top-left
+{
+	color:white;
+	
+	
+}
+
+.container-fluids
+{
+	background-image:url("img017.jpg");
+	
+	margin-bottom:5px;
+	
+	
+	
+}
+.textdiv
+{
+	margin-left:10%;
+}
+.textmdiv
+{
+	padding:5%;
+}
+.img
+{
+	padding-top:5%;
+    padding-bottom:5%;
+	padding-right:10%;
+	padding-left:5%;
+    
+	
+}
+.divextra
+{
+	line-height:200%;
+	
+}
+.thirdtext
+{
+	font-family:Courier, monospace;
+	padding:5% 25% 5% 25%;
+	text-align:justify;
+	font-weight:bold;
+	
+}
+.thirdtext1
+{
+	font-family:Brush Script MT;
+	padding-top:2%;
+	text-align:center;
+	font-size:28px;
+	
+}
+.btn-group btn-group-justified
+{
+	margin-left:25%;
+	margin-right:25%;
+	padding-bottom:3%;
+}
+.follow
+{
+	text-align:center;
+}
+.feature_title
+{
+	color:#707070;
+	font-family:sans-serif;
+}
+.client
+{
+	border-style:ridge;
+	 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 80%;
+	height:25%;
+	border-width:1px;
+	margin-left:10%;
+	
+}
+.hr-primary{
+	width:8%;
+	height:.1%;
+	background:linear-gradient(to right,rgba(255,0,0,0), rgba(255,0,0,1),rgba(255,0,0,0));
+}
+
+.lancer
+{
+	border-style:ridge;
+	 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width:80%;
+	height:25%;
+	border-width:1px;
+}
+
+.about-cl{
+	border-style:ridge;
+	 box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    width: 80%;
+	height:25%;
+	border-width:1px;
+}
+.text-client{
+	
+	font-family:Brush Script MT;
+}

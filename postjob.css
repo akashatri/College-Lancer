@@ -1,0 +1,17 @@
+body
+{
+	overflow-x:hidden;
+}
+.form-group
+{
+	padding-left:5%;
+	padding-right:5%;
+}
+.follow
+{
+	text-align:center;
+}
+.head
+{
+	text-align:center;
+}
